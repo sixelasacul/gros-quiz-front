@@ -1,3 +1,3 @@
-# gros-quizz-front
+# gros-quiz-front
 
-Le site préféré des joueurs du Gros Quizz
+Le site préféré des joueurs du Gros Quiz
